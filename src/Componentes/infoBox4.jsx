@@ -1,5 +1,5 @@
 import React from "react";
-import { BoxFour } from "./boxFour";
+import { BoxFour } from "./box4";
 
 export default function InfoBox5() {
   return (

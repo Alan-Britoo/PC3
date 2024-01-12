@@ -1,6 +1,6 @@
 import React from 'react'
 
-export  function BoxThree({ide,la,cla,idee,ty,va,min}) {
+export  function BoxThree({ide,la,cla,idee,ty,min}) {
   return (
     <>
           <span id={ide}></span>
@@ -9,7 +9,6 @@ export  function BoxThree({ide,la,cla,idee,ty,va,min}) {
               class={cla}
               id={idee}
               type={ty}
-              value={va}
               min={min}
             />
           </label>
